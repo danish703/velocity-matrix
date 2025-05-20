@@ -1,2 +1,6 @@
-# velocity-matrix
-Best practices and checklist for code contribution at Velocity Matrix.
+# Velocity Matrix – Code Contribution Guidelines
+
+This repository for contributing code to Velocity Matrix projects.
+
+## Contents
+- will add lalter
